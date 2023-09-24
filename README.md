@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **power-cris/power-cris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy especialista en Business Intelligence & Analytics con una visión clara: convertir la información en una ventaja competitiva. Con más de 7 años de experiencia en el sector de consumo masivo, he pasado mi carrera profesional aportando valor a las empresas en la toma de decisiones estratégicas. Mi pasión radica en la automatización de tareas y generación de valor a través de los datos, para diseñar soluciones innovadoras que impulsen el crecimiento empresarial.
+
+🔍  Análisis y visualización de datos
+🛠️  SQL Server
+🐍  Python
+📊  Business Intelligence
+🔧  Automatización de procesos
+📊  Excel Avanzado
